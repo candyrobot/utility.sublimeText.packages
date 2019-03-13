@@ -1,0 +1,3573 @@
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>Mattia Astorino</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>name</key>
+	<string>Material-Theme-Darker</string>
+	<key>semanticClass</key>
+	<string>material.theme.darker</string>
+	<key>settings</key>
+	<array>
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_ccccccFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ccccccFF</string>
+<key>foreground</key>
+<string>#323232FF</string>
+<key>caret</key>
+<string>#323232FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_ccccccFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#ccccccFF</string>
+<key>caret</key>
+<string>#323232FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_F44336FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#F44336FF</string>
+<key>foreground</key>
+<string>#C9180AFF</string>
+<key>caret</key>
+<string>#C9180AFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_F44336FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#F44336FF</string>
+<key>caret</key>
+<string>#C9180AFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_000000FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#000000FF</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_000000FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_FFFFFFFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#FFFFFFFF</string>
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_FFFFFFFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_ffffffFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ffffffFF</string>
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_ffffffFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#ffffffFF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_FFFFFF26</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#FFFFFF26</string>
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_FFFFFF26</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#FFFFFF26</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_00000080</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#00000080</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_00000080</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#00000080</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_FFFFFFCC</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#FFFFFFCC</string>
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_FFFFFFCC</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#FFFFFFCC</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_ddddddFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ddddddFF</string>
+<key>foreground</key>
+<string>#212121FF</string>
+<key>caret</key>
+<string>#212121FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_ddddddFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#ddddddFF</string>
+<key>caret</key>
+<string>#212121FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_ff2222FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ff2222FF</string>
+<key>foreground</key>
+<string>#4C0000FF</string>
+<key>caret</key>
+<string>#4C0000FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_ff2222FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#ff2222FF</string>
+<key>caret</key>
+<string>#4C0000FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_f1f2f3FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#f1f2f3FF</string>
+<key>foreground</key>
+<string>#0C0D0EFF</string>
+<key>caret</key>
+<string>#0C0D0EFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_f1f2f3FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#f1f2f3FF</string>
+<key>caret</key>
+<string>#0C0D0EFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_888888FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#888888FF</string>
+<key>foreground</key>
+<string>#262626FF</string>
+<key>caret</key>
+<string>#262626FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_888888FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#888888FF</string>
+<key>caret</key>
+<string>#262626FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_f0ad4eFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#f0ad4eFF</string>
+<key>foreground</key>
+<string>#B16E0FFF</string>
+<key>caret</key>
+<string>#B16E0FFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_f0ad4eFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#f0ad4eFF</string>
+<key>caret</key>
+<string>#B16E0FFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_aaaaaaFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#aaaaaaFF</string>
+<key>foreground</key>
+<string>#555555FF</string>
+<key>caret</key>
+<string>#555555FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_aaaaaaFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#aaaaaaFF</string>
+<key>caret</key>
+<string>#555555FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_6C7177FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#6C7177FF</string>
+<key>foreground</key>
+<string>#242628FF</string>
+<key>caret</key>
+<string>#242628FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_6C7177FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#6C7177FF</string>
+<key>caret</key>
+<string>#242628FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_fbfaf8FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#fbfaf8FF</string>
+<key>foreground</key>
+<string>#070604FF</string>
+<key>caret</key>
+<string>#070604FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_fbfaf8FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#fbfaf8FF</string>
+<key>caret</key>
+<string>#070604FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_FFFFFF00</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#FFFFFF00</string>
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_FFFFFF00</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#FFFFFF00</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_e1e0deFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#e1e0deFF</string>
+<key>foreground</key>
+<string>#20201EFF</string>
+<key>caret</key>
+<string>#20201EFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_e1e0deFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#212122FF</string>
+<key>foreground</key>
+<string>#e1e0deFF</string>
+<key>caret</key>
+<string>#20201EFF</string>
+</dict>
+</dict>
+
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>activeGuide</key>
+				<string>#FFFFFF50</string>
+				<key>background</key>
+				<string>#212121</string>
+				<key>caret</key>
+				<string>#FFCC00</string>
+				<key>findHighlight</key>
+				<string>#F8E71C</string>
+				<key>foreground</key>
+				<string>#eeffffff</string>
+				<key>guide</key>
+				<string>#42424270</string>
+				<key>gutterForeground</key>
+				<string>#424242</string>
+				<key>invisibles</key>
+				<string>#65737e</string>
+				<key>lineHighlight</key>
+				<string>#00000050</string>
+				<key>popupCss</key>
+				<string> html { background-color: #212121; color: #eeffffff; padding: 16px; } a { color: #B2CCD6; line-height: 16px; } .error, .deleted { color: #FF5370; } .success, .inserted { color: #C3E88D; } .warning, .modified { color: #FFCB6B; } .type { color: #89DDFF; font-style: italic; } .param { color: #F78C6C; } .current { text-decoration: underline; } </string>
+				<key>selection</key>
+				<string>#61616150</string>
+				<key>selectionBorder</key>
+				<string>#61616150</string>
+				<key>shadow</key>
+				<string>#00000010</string>
+				<key>stackGuide</key>
+				<string>#42424280</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Comments</string>
+			<key>scope</key>
+			<string>comment, punctuation.definition.comment</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#4A4A4A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Variable</string>
+			<key>scope</key>
+			<string>variable, string constant.other.placeholder</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#eeffffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Colors</string>
+			<key>scope</key>
+			<string>constant.other.color</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid</string>
+			<key>scope</key>
+			<string>invalid, invalid.illegal, invalid.broken</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FF5370</string>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Unimplemented</string>
+			<key>scope</key>
+			<string>invalid.unimplemented</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#C3E88D</string>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid deprecated</string>
+			<key>scope</key>
+			<string>invalid.deprecated</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#C792EA</string>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword, Storage</string>
+			<key>scope</key>
+			<string>keyword, storage.type, storage.modifier</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C792EA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword, Storage</string>
+			<key>scope</key>
+			<string>storage.type, keyword.control</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Operator, Misc</string>
+			<key>scope</key>
+			<string>keyword.operator, constant.other.color, punctuation, meta.tag, punctuation.definition.tag, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.section.embedded, keyword.other.template, keyword.other.substitution</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#89DDFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag</string>
+			<key>scope</key>
+			<string>entity.name.tag, meta.tag.sgml, markup.deleted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f07178</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Function, Special Method, Block Level</string>
+			<key>scope</key>
+			<string>entity.name.function, meta.function-call, variable.function, support.function, keyword.other.special-method, meta.block-level</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#82AAFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Other Variable, String Link</string>
+			<key>scope</key>
+			<string>support.other.variable, string.other.link</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f07178</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Number, Constant, Function Argument, Tag Attribute, Embedded</string>
+			<key>scope</key>
+			<string>constant.numeric, constant.language, support.constant, constant.character, variable.parameter, keyword.other.unit</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F78C6C</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String, Symbols, Inherited Class, Markup Heading</string>
+			<key>scope</key>
+			<string>string, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
+				<key>foreground</key>
+				<string>#C3E88D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Class, Support</string>
+			<key>scope</key>
+			<string>entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter, support.type.sys-types</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFCB6B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS Class and Support</string>
+			<key>scope</key>
+			<string>source.css support.type, source.sass support.type, source.scss support.type, source.less support.type, source.stylus support.type</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B2CCD6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sub-methods</string>
+			<key>scope</key>
+			<string>entity.name.module.js, variable.import.parameter.js, variable.other.class.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF5370</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Language methods</string>
+			<key>scope</key>
+			<string>variable.language</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#FF5370</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>entity.name.method.js</string>
+			<key>scope</key>
+			<string>entity.name.method.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#82AAFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>meta.method.js</string>
+			<key>scope</key>
+			<string>meta.class-method.js entity.name.function.js, variable.function.constructor</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#82AAFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Attributes</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C792EA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HTML Attributes</string>
+			<key>scope</key>
+			<string>text.html.basic entity.other.attribute-name.html, text.html.basic entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#FFCB6B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS Classes</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFCB6B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS Id</string>
+			<key>scope</key>
+			<string>source.sass keyword.control</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#82AAFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Inserted</string>
+			<key>scope</key>
+			<string>markup.inserted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C3E88D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deleted</string>
+			<key>scope</key>
+			<string>markup.deleted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF5370</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Changed</string>
+			<key>scope</key>
+			<string>markup.changed</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C792EA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Regular Expressions</string>
+			<key>scope</key>
+			<string>string.regexp</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#89DDFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Escape Characters</string>
+			<key>scope</key>
+			<string>constant.character.escape</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#89DDFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>URL</string>
+			<key>scope</key>
+			<string>*url*, *link*, *uri*</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>underline</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Search Results Nums</string>
+			<key>scope</key>
+			<string>constant.numeric.line-number.find-in-files - match</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C17E70</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Search Results Lines</string>
+			<key>scope</key>
+			<string>entity.name.filename.find-in-files</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C3E88D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Decorators</string>
+			<key>scope</key>
+			<string>tag.decorator.js entity.name.tag.js, tag.decorator.js punctuation.definition.tag.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#82AAFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ES7 Bind Operator</string>
+			<key>scope</key>
+			<string>source.js constant.other.object.key.js string.unquoted.label.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#FF5370</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON Key - Level 8</string>
+			<key>scope</key>
+			<string>source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C3E88D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON Key - Level 7</string>
+			<key>scope</key>
+			<string>source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C792EA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON Key - Level 6</string>
+			<key>scope</key>
+			<string>source.json meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f07178</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON Key - Level 5</string>
+			<key>scope</key>
+			<string>source.json meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#82AAFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON Key - Level 4</string>
+			<key>scope</key>
+			<string>source.json meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C17E70</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON Key - Level 3</string>
+			<key>scope</key>
+			<string>source.json meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF5370</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON Key - Level 2</string>
+			<key>scope</key>
+			<string>source.json meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F78C6C</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON Key - Level 1</string>
+			<key>scope</key>
+			<string>source.json meta meta.structure.dictionary.json string.quoted.double.json - meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta.structure.dictionary.json punctuation.definition.string - meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFCB6B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON Key - Level 0</string>
+			<key>scope</key>
+			<string>source.json meta.structure.dictionary.json string.quoted.double.json - meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta.structure.dictionary.json punctuation.definition.string - meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C792EA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown - Plain</string>
+			<key>scope</key>
+			<string>text.html.markdown, punctuation.definition.list_item.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#eeffffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown - Markup Raw Inline</string>
+			<key>scope</key>
+			<string>text.html.markdown markup.raw.inline</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C792EA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown - Markup Raw Inline Punctuation</string>
+			<key>scope</key>
+			<string>text.html.markdown punctuation.definition.raw.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#65737e</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown - Line Break</string>
+			<key>scope</key>
+			<string>text.html.markdown meta.dummy.line-break</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string />
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown - Heading</string>
+			<key>scope</key>
+			<string>markdown.heading, markup.heading | markup.heading entity.name, markup.heading.markdown punctuation.definition.heading.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C3E88D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - Italic</string>
+			<key>scope</key>
+			<string>markup.italic</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#f07178</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - Bold</string>
+			<key>scope</key>
+			<string>markup.bold, markup.bold string</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#f07178</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - Bold &amp; Italic</string>
+			<key>scope</key>
+			<string>markup.bold markup.italic, markup.italic markup.bold, markup.quote markup.bold, markup.bold markup.italic string, markup.italic markup.bold string, markup.quote markup.bold string</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - Underline</string>
+			<key>scope</key>
+			<string>markup.underline</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>underline</string>
+				<key>foreground</key>
+				<string>#F78C6C</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - Strike</string>
+			<key>scope</key>
+			<string>markup.strike</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>strike</string>
+				<key>foreground</key>
+				<string />
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown - Blockquote</string>
+			<key>scope</key>
+			<string>markup.quote punctuation.definition.blockquote.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#65737e</string>
+				<key>foreground</key>
+				<string>#65737e</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - Quote</string>
+			<key>scope</key>
+			<string>markup.quote</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string />
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown - Link</string>
+			<key>scope</key>
+			<string>string.other.link.title.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#82AAFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown - Link Description</string>
+			<key>scope</key>
+			<string>string.other.link.description.title.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C792EA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown - Link Anchor</string>
+			<key>scope</key>
+			<string>constant.other.reference.link.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFCB6B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - Raw Block</string>
+			<key>scope</key>
+			<string>markup.raw.block</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C792EA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown - Raw Block Fenced</string>
+			<key>scope</key>
+			<string>markup.raw.block.fenced.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#00000050</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown - Fenced Bode Block</string>
+			<key>scope</key>
+			<string>punctuation.definition.fenced.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#00000050</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown - Fenced Bode Block Variable</string>
+			<key>scope</key>
+			<string>markup.raw.block.fenced.markdown, variable.language.fenced.markdown, punctuation.section.class.end</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#eeffffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown - Fenced Language</string>
+			<key>scope</key>
+			<string>variable.language.fenced.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string />
+				<key>foreground</key>
+				<string>#65737e</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown - Punctuation Definition</string>
+			<key>scope</key>
+			<string>text.html.markdown punctuation.definition</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#4A4A4A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown HTML - Punctuation Definition</string>
+			<key>scope</key>
+			<string>text.html.markdown meta.disable-markdown punctuation.definition</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#89DDFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown - Separator</string>
+			<key>scope</key>
+			<string>meta.separator</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#00000050</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#65737e</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup - Table</string>
+			<key>scope</key>
+			<string>markup.table</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string />
+				<key>foreground</key>
+				<string>#eeffffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AceJump Label - Blue</string>
+			<key>scope</key>
+			<string>acejump.label.blue</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#82AAFF</string>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AceJump Label - Green</string>
+			<key>scope</key>
+			<string>acejump.label.green</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#C3E88D</string>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AceJump Label - Orange</string>
+			<key>scope</key>
+			<string>acejump.label.orange</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#F78C6C</string>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AceJump Label - Purple</string>
+			<key>scope</key>
+			<string>acejump.label.purple</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#C792EA</string>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Warning</string>
+			<key>scope</key>
+			<string>sublimelinter.mark.warning</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFCB6B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Gutter Mark</string>
+			<key>scope</key>
+			<string>sublimelinter.gutter-mark</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Error</string>
+			<key>scope</key>
+			<string>sublimelinter.mark.error</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF5370</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Annotation</string>
+			<key>scope</key>
+			<string>sublimelinter.annotations</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#C17E70</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter Ignored</string>
+			<key>scope</key>
+			<string>markup.ignored.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#65737e</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter Untracked</string>
+			<key>scope</key>
+			<string>markup.untracked.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#65737e</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter Inserted</string>
+			<key>scope</key>
+			<string>markup.inserted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C3E88D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter Changed</string>
+			<key>scope</key>
+			<string>markup.changed.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFCB6B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter Deleted</string>
+			<key>scope</key>
+			<string>markup.deleted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF5370</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bracket Curly</string>
+			<key>scope</key>
+			<string>brackethighlighter.default</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B2CCD6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bracket Quote</string>
+			<key>scope</key>
+			<string>brackethighlighter.quote</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C3E88D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bracket Unmatched</string>
+			<key>scope</key>
+			<string>brackethighlighter.unmatched</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF5370</string>
+			</dict>
+		</dict>
+	<dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_ccccccff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ccccccff</string>
+<key>foreground</key>
+<string>#323232FF</string>
+<key>caret</key>
+<string>#323232FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_ccccccff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#ccccccff</string>
+<key>caret</key>
+<string>#323232FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_eeeeeeff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#eeeeeeff</string>
+<key>foreground</key>
+<string>#101010FF</string>
+<key>caret</key>
+<string>#101010FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_eeeeeeff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#eeeeeeff</string>
+<key>caret</key>
+<string>#101010FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_00000080</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#00000080</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_00000080</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#00000080</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_888888ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#888888ff</string>
+<key>foreground</key>
+<string>#262626FF</string>
+<key>caret</key>
+<string>#262626FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_888888ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#888888ff</string>
+<key>caret</key>
+<string>#262626FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_666666ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#666666ff</string>
+<key>foreground</key>
+<string>#999999FF</string>
+<key>caret</key>
+<string>#999999FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_666666ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#666666ff</string>
+<key>caret</key>
+<string>#999999FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_f0ad4eff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#f0ad4eff</string>
+<key>foreground</key>
+<string>#B16E0FFF</string>
+<key>caret</key>
+<string>#B16E0FFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_f0ad4eff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#f0ad4eff</string>
+<key>caret</key>
+<string>#B16E0FFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_5bc0deff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#5bc0deff</string>
+<key>foreground</key>
+<string>#2086A3FF</string>
+<key>caret</key>
+<string>#2086A3FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_5bc0deff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#5bc0deff</string>
+<key>caret</key>
+<string>#2086A3FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_d9534fff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#d9534fff</string>
+<key>foreground</key>
+<string>#B02A25FF</string>
+<key>caret</key>
+<string>#B02A25FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_d9534fff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#d9534fff</string>
+<key>caret</key>
+<string>#B02A25FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_555555ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#555555ff</string>
+<key>foreground</key>
+<string>#AAAAAAFF</string>
+<key>caret</key>
+<string>#AAAAAAFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_555555ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#555555ff</string>
+<key>caret</key>
+<string>#AAAAAAFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_444444ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#444444ff</string>
+<key>foreground</key>
+<string>#BBBBBBFF</string>
+<key>caret</key>
+<string>#BBBBBBFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_444444ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#444444ff</string>
+<key>caret</key>
+<string>#BBBBBBFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_0000004c</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#0000004c</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_0000004c</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#0000004c</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_6dd412ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#6dd412ff</string>
+<key>foreground</key>
+<string>#244605FF</string>
+<key>caret</key>
+<string>#244605FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_6dd412ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#6dd412ff</string>
+<key>caret</key>
+<string>#244605FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_ffc107ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ffc107ff</string>
+<key>foreground</key>
+<string>#4C3900FF</string>
+<key>caret</key>
+<string>#4C3900FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_ffc107ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#ffc107ff</string>
+<key>caret</key>
+<string>#4C3900FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_ffffffff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ffffffff</string>
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_ffffffff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#ffffffff</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_767676ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#767676ff</string>
+<key>foreground</key>
+<string>#262626FF</string>
+<key>caret</key>
+<string>#262626FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_767676ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#767676ff</string>
+<key>caret</key>
+<string>#262626FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_222222ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#222222ff</string>
+<key>foreground</key>
+<string>#DDDDDDFF</string>
+<key>caret</key>
+<string>#DDDDDDFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_222222ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#222222ff</string>
+<key>caret</key>
+<string>#DDDDDDFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_bbbbbbff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#bbbbbbff</string>
+<key>foreground</key>
+<string>#444444FF</string>
+<key>caret</key>
+<string>#444444FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_bbbbbbff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#bbbbbbff</string>
+<key>caret</key>
+<string>#444444FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_f1f1f1ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#f1f1f1ff</string>
+<key>foreground</key>
+<string>#0E0E0EFF</string>
+<key>caret</key>
+<string>#0E0E0EFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_f1f1f1ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#f1f1f1ff</string>
+<key>caret</key>
+<string>#0E0E0EFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_00000099</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#00000099</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_00000099</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#00000099</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_21759bff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#21759bff</string>
+<key>foreground</key>
+<string>#63B8DEFF</string>
+<key>caret</key>
+<string>#63B8DEFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_21759bff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#21759bff</string>
+<key>caret</key>
+<string>#63B8DEFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_333333ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#333333ff</string>
+<key>foreground</key>
+<string>#CCCCCCFF</string>
+<key>caret</key>
+<string>#CCCCCCFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_333333ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#333333ff</string>
+<key>caret</key>
+<string>#CCCCCCFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_ffffff00</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ffffff00</string>
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_ffffff00</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#ffffff00</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_ddddddff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ddddddff</string>
+<key>foreground</key>
+<string>#212121FF</string>
+<key>caret</key>
+<string>#212121FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_ddddddff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#ddddddff</string>
+<key>caret</key>
+<string>#212121FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_000000ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#000000ff</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_000000ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#000000ff</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_0f0f0fff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#0f0f0fff</string>
+<key>foreground</key>
+<string>#F0F0F0FF</string>
+<key>caret</key>
+<string>#F0F0F0FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_0f0f0fff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#0f0f0fff</string>
+<key>caret</key>
+<string>#F0F0F0FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_00000000</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#00000000</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_00000000</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#00000000</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_fafafaff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#fafafaff</string>
+<key>foreground</key>
+<string>#050505FF</string>
+<key>caret</key>
+<string>#050505FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_fafafaff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#fafafaff</string>
+<key>caret</key>
+<string>#050505FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_4d000000</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#4d000000</string>
+<key>foreground</key>
+<string>#FFB2B2FF</string>
+<key>caret</key>
+<string>#FFB2B2FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_4d000000</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#4d000000</string>
+<key>caret</key>
+<string>#FFB2B2FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_22222280</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#22222280</string>
+<key>foreground</key>
+<string>#DDDDDDFF</string>
+<key>caret</key>
+<string>#DDDDDDFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_22222280</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#22222280</string>
+<key>caret</key>
+<string>#DDDDDDFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_ffffff99</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ffffff99</string>
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_ffffff99</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#ffffff99</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_ffffffcc</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ffffffcc</string>
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_ffffffcc</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#ffffffcc</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_222222cc</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#222222cc</string>
+<key>foreground</key>
+<string>#DDDDDDFF</string>
+<key>caret</key>
+<string>#DDDDDDFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_222222cc</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#222222cc</string>
+<key>caret</key>
+<string>#DDDDDDFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_aaaaaaff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#aaaaaaff</string>
+<key>foreground</key>
+<string>#555555FF</string>
+<key>caret</key>
+<string>#555555FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_aaaaaaff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#aaaaaaff</string>
+<key>caret</key>
+<string>#555555FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_0085baff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#0085baff</string>
+<key>foreground</key>
+<string>#44C9FFFF</string>
+<key>caret</key>
+<string>#44C9FFFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_0085baff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#0085baff</string>
+<key>caret</key>
+<string>#44C9FFFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_777777ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#777777ff</string>
+<key>foreground</key>
+<string>#262626FF</string>
+<key>caret</key>
+<string>#262626FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_777777ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#777777ff</string>
+<key>caret</key>
+<string>#262626FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_0e1835ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#0e1835ff</string>
+<key>foreground</key>
+<string>#CAD3F1FF</string>
+<key>caret</key>
+<string>#CAD3F1FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_0e1835ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#0e1835ff</string>
+<key>caret</key>
+<string>#CAD3F1FF</string>
+</dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_34abe6ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#34abe6ff</string>
+<key>foreground</key>
+<string>#083044FF</string>
+<key>caret</key>
+<string>#083044FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_34abe6ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#34abe6ff</string>
+<key>caret</key>
+<string>#083044FF</string>
+</dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_5adafdff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#5adafdff</string>
+<key>foreground</key>
+<string>#0181A4FF</string>
+<key>caret</key>
+<string>#0181A4FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_5adafdff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#5adafdff</string>
+<key>caret</key>
+<string>#0181A4FF</string>
+</dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_282c34ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#282c34ff</string>
+<key>foreground</key>
+<string>#CBCED7FF</string>
+<key>caret</key>
+<string>#CBCED7FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_282c34ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#282c34ff</string>
+<key>caret</key>
+<string>#CBCED7FF</string>
+</dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_61dafbff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#61dafbff</string>
+<key>foreground</key>
+<string>#037C9EFF</string>
+<key>caret</key>
+<string>#037C9EFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_61dafbff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#61dafbff</string>
+<key>caret</key>
+<string>#037C9EFF</string>
+</dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_ece9e9ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ece9e9ff</string>
+<key>foreground</key>
+<string>#151212FF</string>
+<key>caret</key>
+<string>#151212FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_ece9e9ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#ece9e9ff</string>
+<key>caret</key>
+<string>#151212FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_343434ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#343434ff</string>
+<key>foreground</key>
+<string>#CBCBCBFF</string>
+<key>caret</key>
+<string>#CBCBCBFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_343434ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#343434ff</string>
+<key>caret</key>
+<string>#CBCBCBFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_2e2e2eff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#2e2e2eff</string>
+<key>foreground</key>
+<string>#D1D1D1FF</string>
+<key>caret</key>
+<string>#D1D1D1FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_2e2e2eff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#2e2e2eff</string>
+<key>caret</key>
+<string>#D1D1D1FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_303030ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#303030ff</string>
+<key>foreground</key>
+<string>#CFCFCFFF</string>
+<key>caret</key>
+<string>#CFCFCFFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_303030ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#303030ff</string>
+<key>caret</key>
+<string>#CFCFCFFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_ffffffa6</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ffffffa6</string>
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_ffffffa6</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#ffffffa6</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_ecececff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ecececff</string>
+<key>foreground</key>
+<string>#121212FF</string>
+<key>caret</key>
+<string>#121212FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_ecececff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#ecececff</string>
+<key>caret</key>
+<string>#121212FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_ffff4fff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ffff4fff</string>
+<key>foreground</key>
+<string>#AFB000FF</string>
+<key>caret</key>
+<string>#AFB000FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_ffff4fff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#ffff4fff</string>
+<key>caret</key>
+<string>#AFB000FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_e9dc51ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#e9dc51ff</string>
+<key>foreground</key>
+<string>#ADA116FF</string>
+<key>caret</key>
+<string>#ADA116FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_e9dc51ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#e9dc51ff</string>
+<key>caret</key>
+<string>#ADA116FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_00000040</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#00000040</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_00000040</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#00000040</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_000000b2</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#000000b2</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_000000b2</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#000000b2</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_ffffff08</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ffffff08</string>
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_ffffff08</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#ffffff08</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_cacacaff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cacacaff</string>
+<key>foreground</key>
+<string>#353535FF</string>
+<key>caret</key>
+<string>#353535FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_cacacaff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#cacacaff</string>
+<key>caret</key>
+<string>#353535FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_e0e0e0ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#e0e0e0ff</string>
+<key>foreground</key>
+<string>#1F1F1FFF</string>
+<key>caret</key>
+<string>#1F1F1FFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_e0e0e0ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#e0e0e0ff</string>
+<key>caret</key>
+<string>#1F1F1FFF</string>
+</dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_1ca1f2ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#1ca1f2ff</string>
+<key>foreground</key>
+<string>#042E48FF</string>
+<key>caret</key>
+<string>#042E48FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_1ca1f2ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#1ca1f2ff</string>
+<key>caret</key>
+<string>#042E48FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_1c81f2ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#1c81f2ff</string>
+<key>foreground</key>
+<string>#042448FF</string>
+<key>caret</key>
+<string>#042448FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_1c81f2ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#1c81f2ff</string>
+<key>caret</key>
+<string>#042448FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_1c8182ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#1c8182ff</string>
+<key>foreground</key>
+<string>#7DE1E3FF</string>
+<key>caret</key>
+<string>#7DE1E3FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_1c8182ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#1c8182ff</string>
+<key>caret</key>
+<string>#7DE1E3FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_11537bff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#11537bff</string>
+<key>foreground</key>
+<string>#83C5EEFF</string>
+<key>caret</key>
+<string>#83C5EEFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_11537bff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#11537bff</string>
+<key>caret</key>
+<string>#83C5EEFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_70c9ffff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#70c9ffff</string>
+<key>foreground</key>
+<string>#00598FFF</string>
+<key>caret</key>
+<string>#00598FFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_70c9ffff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#70c9ffff</string>
+<key>caret</key>
+<string>#00598FFF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_1ca1f2cc</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#1ca1f2cc</string>
+<key>foreground</key>
+<string>#042E48FF</string>
+<key>caret</key>
+<string>#042E48FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_1ca1f2cc</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#1ca1f2cc</string>
+<key>caret</key>
+<string>#042E48FF</string>
+</dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_ff7878ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ff7878ff</string>
+<key>foreground</key>
+<string>#860000FF</string>
+<key>caret</key>
+<string>#860000FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_ff7878ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#ff7878ff</string>
+<key>caret</key>
+<string>#860000FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_00000066</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#00000066</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_00000066</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#00000066</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_e6e6e6ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#e6e6e6ff</string>
+<key>foreground</key>
+<string>#181818FF</string>
+<key>caret</key>
+<string>#181818FF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_e6e6e6ff</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#e6e6e6ff</string>
+<key>caret</key>
+<string>#181818FF</string>
+</dict>
+</dict><dict>
+<key>name</key>
+<string>CH_color</string>
+<key>scope</key>
+<string>CH_color_00000033</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#00000033</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+<key>scope</key>
+<string>CH_text_color_00000033</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#cccccdFF</string>
+<key>foreground</key>
+<string>#00000033</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict><dict>
+    <key>name</key>
+    <string>CH_color_scheme_fix</string>
+    <key>scope</key>
+    <string>ch_gutter_icon</string>
+    <key>settings</key>
+    <dict>
+        <key>foreground</key>
+        <string>#ffffff</string>
+    </dict>
+</dict></array>
+	<key>uuid</key>
+	<string>4F44C0F5-1F8D-4C52-8BAB-F0951904C1EC</string>
+</dict>
+</plist>

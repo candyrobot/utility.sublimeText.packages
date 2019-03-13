@@ -1,0 +1,67 @@
+2014-10-11 12:50:20
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1116, in open_file
+AttributeError: 'NoneType' object has no attribute 'settings'
+2015-01-19 22:05:16
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 322, in handle_get_dirs
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/sftp_transport.py", line 324, in lcd
+SFTP.sftp.errors.NotFoundError: Folder not found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 15, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 113, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 332, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 480, in do_operation
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 34, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/sftp_transport.py", line 354, in get
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 328, in handle_get_dirs
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/sftp_transport.py", line 324, in lcd
+SFTP.sftp.errors.NotFoundError: Folder not found
+2015-01-19 22:06:04
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 322, in handle_get_dirs
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/sftp_transport.py", line 324, in lcd
+SFTP.sftp.errors.NotFoundError: Folder not found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 15, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 113, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 332, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 480, in do_operation
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 34, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/sftp_transport.py", line 354, in get
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 328, in handle_get_dirs
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/sftp_transport.py", line 324, in lcd
+SFTP.sftp.errors.NotFoundError: Folder not found
+2015-06-07 21:49:51
+Error parsing remote folder listing:
+  cd "/var/www/html/www__hostServer/"
+  drwxr-xr-x    2 ec2-user ec2-user     4096 Jun  7 11:06 .
+  drwxr-xr-x    8 ec2-user ec2-user     4096 Jun  7 11:06 ..
+  -rw-r--r--    1 ec2-user ec2-user     5638 May 20 05:31 front.js?ver=1404
+  -rw-r--r--    1 ec2-user ec2-user     1159 May 20 05:32 screen.css?ver=1404
+2015-06-07 21:49:51
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 15, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 113, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 332, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 480, in do_operation
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 34, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 469, in listr
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 34, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 432, in list
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/sftp_transport.py", line 442, in ls
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 820, in parse_ls
+SFTP.sftp.errors.ConnectionError: Error parsing remote folder listing
+2017-12-05 20:24:28
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 16, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1202, in run
+  File "./python3.3/os.py", line 251, in makedirs
+  File "./python3.3/os.py", line 262, in makedirs
+OSError: [Errno 45] Operation not supported: '/home/findwkwk'

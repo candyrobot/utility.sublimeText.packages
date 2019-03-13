@@ -1,0 +1,8 @@
+{
+    // 履歴を残す日数
+    "file_history_retention": 30,
+    // 上限バイト数 (256KB)
+    "file_size_limit": 262144,
+    // trueにするとファイルを閉じる時に保存
+    "history_on_close": true
+}
